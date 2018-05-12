@@ -1,4 +1,5 @@
 _repo: A-Lamp-to-the-Path-Or-The-Word-of-God-in-the-Heart-the-Home-the-Workshop-and-the-Market-Place_47538
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Hastings, Howard L. (Howard Livingston)
@@ -6,12 +7,17 @@ contributor:
     birthdate: 1887
     gutenberg_agent_id: '7682'
     url: http://www.gutenberg.org/2009/agents/7682
+covers:
+- cover_type: archival
+  image_path: 47538-h/images/cover.jpg
 creator:
   author:
     agent_name: Tweedie, W. K.
     gutenberg_agent_id: '44369'
     url: http://www.gutenberg.org/2009/agents/44369
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47538#A-Lamp-to-the-Path-Or-The-Word-of-God-in-the-Heart-the-Home-the-Workshop-and-the-Market-Place
 gutenberg_issued: '2014-12-05'
 gutenberg_type: Text
 identifiers:
